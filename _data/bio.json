@@ -2,7 +2,7 @@
   "basics": {
     "name": "Aqueeb Anjum Sunny",
     "label": "Student",
-    "picture": "https://github.com/heisen23.png",
+    "picture": "https://i1.rgstatic.net/ii/profile.image/11431281247772952-1716889037114_Q512/Aqueeb-Sunny.jpg",
     "email": "akib.sunny@gmail.com",
     "phone": "8801923011378",
     "website": "https://heisen23.github.io",
@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/heisen23" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "molly", "url": "https://www.instagram.com/__heisenberg23__/" }
     ]
   },
   "interests": [
@@ -27,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
