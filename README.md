@@ -1,3 +1,3 @@
-# Professional Portfolio
+This repository holds the portfolio website that showcases some of my neutronics projects.
 
-For details on this professional portfolio, please see https://techfolios.github.io.
+Visit the website here: https://heisen23.github.io/portfolio/
