@@ -5,13 +5,13 @@
     "picture": "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/440405077_3682484615303588_5517786987452880371_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHgdpuwBZemblxQAymOiuRSvU9Ag_X2OBC9T0CD9fY4EA-eYz-qAKzSqv1Y38LYJMNN22Okh3HjTeJGZifaVTu0&_nc_ohc=lnyhQpT7VDIQ7kNvwHrIGti&_nc_oc=Adkd43xE_YPpI-N65y6fJ822V5lEg8Z0SdCGO_B6h60toD3wmjk8lRX8Cjc9rBv9bGs&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=PRLCpcDHtI83opLCUYOF4g&oh=00_AfbMKUTCyyX-aQ74BlpIH3d_07T6o6Xj3M70MRqfCpoMwg&oe=68D04DAE",
     "email": "akib.sunny@gmail.com",
     "phone": "8801923011378",
-    "website": "https://heisen23.github.io",
+    "website": "https://heisen23.github.io/portfolio/",
     "summary": "I am a Nuclear Engineering graduate with specific research interests in Computational Nuclear Engineering ",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/heisen23" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "instagram", "username": "molly", "url": "https://www.instagram.com/__heisenberg23__/" }
+      { "network": "github", "username": "heisen23", "url": "http://github.com/heisen23" },
+      { "network": "linkedin", "username": "aqueebsunny", "url": "https://www.linkedin.com/in/aqueeb-sunny-509709313/" },
+      { "network": "instagram", "username": "__heisenberg23__", "url": "https://www.instagram.com/__heisenberg23__/" }
     ]
   },
   "interests": [
