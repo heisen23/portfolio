@@ -41,6 +41,11 @@ body {
   color: #e3eafc; /* Light blueish text */
 }
 
+/* Fix header fonts for dark mode */
+h1, h2, h3, h4, h5, h6 {
+  color: #e3eafc;
+}
+
 a {
   color: var(--bs-link-color);
   text-decoration: none;
@@ -74,6 +79,20 @@ a:hover {
   background: var(--tf-projects-bg-color);
   color: #e3eafc;
   border: 1px solid #232a34;
+}
+
+/* Style "Read more" buttons to stand out */
+.btn-primary, .tf-read-more {
+  background-color: #4fc3f7;
+  color: #11151c;
+  border: 1px solid #82b1ff;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-primary:hover, .tf-read-more:hover {
+  background-color: #82b1ff;
+  color: #232a34;
+  border-color: #4fc3f7;
 }
 
 /* Footer */
