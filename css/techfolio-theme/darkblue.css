@@ -1,0 +1,93 @@
+/* Dark Mode Theme: Black & Blue palette for Techfolio */
+
+/* Use Open Sans as the default sans serif font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* Root variables for dark mode */
+:root {
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: #4fc3f7;         /* Bright blue for links */
+  --bs-link-hover-color: #82b1ff;   /* Lighter blue on hover */
+  --tf-pill-bg: #232a34;            /* Pill dark blue/gray */
+  --tf-icon-fill: #4fc3f7;          /* Bright blue for icons */
+  --tf-icon-hover: #82b1ff;         /* Lighter blue for icon hover */
+  --tf-page-bg-color: #11151c;      /* Deep black/blue background */
+  --tf-footer-bg-color: #181c24;    /* Slightly lighter footer */
+  --tf-projects-bg-color: #1a2233;  /* Project section dark blue */
+  --bs-white: #181c24;              /* Redefine white as dark for Bootstrap-based classes */
+  --bs-gray: #232a34;
+  --bs-gray-100: #232a34;
+  --bs-gray-200: #181c24;
+  --bs-gray-500: #4fc3f7;
+  --bs-blue: #4fc3f7;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-icon-fill);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+body {
+  background-color: var(--tf-page-bg-color);
+  color: #e3eafc; /* Light blueish text */
+}
+
+a {
+  color: var(--bs-link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--bs-link-hover-color);
+}
+
+/* Navbar adjustments for improved contrast */
+.navbar, .navbar-brand, .navbar-brand-mobile {
+  background: var(--tf-page-bg-color);
+  color: #e3eafc;
+}
+
+/* Card footer dark background */
+.card-footer {
+  background-color: var(--tf-footer-bg-color);
+  border-top: none;
+  color: #b8c2dc;
+}
+
+/* Pills and badges dark styling */
+.badge, .tf-pill {
+  background: var(--tf-pill-bg);
+  color: #a9c7f7;
+}
+
+/* Project cards background */
+.tf-project-card, .card {
+  background: var(--tf-projects-bg-color);
+  color: #e3eafc;
+  border: 1px solid #232a34;
+}
+
+/* Footer */
+footer {
+  background: var(--tf-footer-bg-color);
+  color: #b8c2dc;
+}
+
+/* Responsive: Hide desktop brand on small screens */
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
