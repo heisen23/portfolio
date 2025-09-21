@@ -14,6 +14,7 @@
   --tf-page-bg-color: #181a1b;      /* Deep black/blue background from dark reader */
   --tf-footer-bg-color: #181a1b;    /* Slightly lighter footer */
   --tf-projects-bg-color: #181a1b;  /* Project section dark blue */
+  --tf-cards-bg-color: #1d1b1f;
   --bs-white: #181a1b;              /* Redefine white as dark for Bootstrap-based classes */
   --bs-gray: #232a34;
   --bs-gray-100: #232a34;
@@ -64,7 +65,7 @@ a:hover {
 
 /* Fix for light-colored cards in dark mode. */
 .card {
-  background-color: var(--tf-projects-bg-color);
+  background-color: var(--tf-cards-bg-color);
 }
 
 .card-header, .card-footer {
