@@ -12,9 +12,9 @@
   --tf-icon-fill: #4fc3f7;          /* Bright blue for icons */
   --tf-icon-hover: #82b1ff;         /* Lighter blue for icon hover */
   --tf-page-bg-color: #181a1b;      /* Deep black/blue background from dark reader */
-  --tf-footer-bg-color: #181c24;    /* Slightly lighter footer */
-  --tf-projects-bg-color: #1a2233;  /* Project section dark blue */
-  --bs-white: #181c24;              /* Redefine white as dark for Bootstrap-based classes */
+  --tf-footer-bg-color: #181a1b;    /* Slightly lighter footer */
+  --tf-projects-bg-color: #181a1b;  /* Project section dark blue */
+  --bs-white: #181a1b;              /* Redefine white as dark for Bootstrap-based classes */
   --bs-gray: #232a34;
   --bs-gray-100: #232a34;
   --bs-gray-200: #181c24;
