@@ -11,7 +11,7 @@
   --tf-pill-bg: #232a34;            /* Pill dark blue/gray */
   --tf-icon-fill: #4fc3f7;          /* Bright blue for icons */
   --tf-icon-hover: #82b1ff;         /* Lighter blue for icon hover */
-  --tf-page-bg-color: #11151c;      /* Deep black/blue background */
+  --tf-page-bg-color: #181a1b;      /* Deep black/blue background from dark reader */
   --tf-footer-bg-color: #181c24;    /* Slightly lighter footer */
   --tf-projects-bg-color: #1a2233;  /* Project section dark blue */
   --bs-white: #181c24;              /* Redefine white as dark for Bootstrap-based classes */
@@ -59,35 +59,26 @@ a:hover {
 /* Card footer dark background */
 .card-footer {
   background-color: var(--tf-footer-bg-color);
-  border-top: none;
-  color: #b8c2dc;
+  border-top-color: var(--tf-footer-bg-color);
 }
 
-/* Pills and badges dark styling */
-.badge, .tf-pill {
-  background: var(--tf-pill-bg);
-  color: #a9c7f7;
+/* Fix for light-colored cards in dark mode. */
+.card {
+  background-color: var(--tf-projects-bg-color);
 }
 
-/* Project cards background */
-.tf-project-card, .card {
-  background: var(--tf-projects-bg-color);
-  color: #e3eafc;
-  border: 1px solid #232a34;
+.card-header, .card-footer {
+  border-color: var(--tf-footer-bg-color);
 }
 
-/* Footer */
-footer {
-  background: var(--tf-footer-bg-color);
-  color: #b8c2dc;
+.jumbotron {
+  background-color: var(--tf-projects-bg-color);
 }
 
-/* Responsive: Hide desktop brand on small screens */
-@media (max-width: 500px) {
-  .navbar-brand {
-    display: none;
-  }
-  .navbar-brand-mobile {
-    display: inline;
-  }
+/* Code block styles */
+pre code.language-plaintext,
+pre code.language-markdown {
+  color: #c9d1d9;
+  background-color: #1a1a1a;
+  border-left: 0.25rem solid #4fc3f7;
 }
