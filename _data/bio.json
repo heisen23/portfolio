@@ -11,6 +11,7 @@
     "profiles": [
       { "network": "github", "username": "heisen23", "url": "http://github.com/heisen23" },
       { "network": "linkedin", "username": "aqueebsunny", "url": "https://www.linkedin.com/in/aqueeb-sunny-509709313/" },
+      { "network": "facebook", "username": "aqueebanjumsunny", "url": "https://www.facebook.com/y0uknowwh0/" },
       { "network": "instagram", "username": "__heisenberg23__", "url": "https://www.instagram.com/__heisenberg23__/" }
     ]
   },
