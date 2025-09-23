@@ -78,7 +78,7 @@ a:hover {
 
 /* Override text-muted for better contrast in dark mode */
 .text-muted {
-  color: #adb5bd;
+  color: #adb5bd !important;
 }
 
 /* Code block styles */
