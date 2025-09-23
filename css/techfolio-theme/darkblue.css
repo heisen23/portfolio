@@ -76,6 +76,11 @@ a:hover {
   background-color: var(--tf-projects-bg-color);
 }
 
+/* Override text-muted for better contrast in dark mode */
+.text-muted {
+  color: #adb5bd;
+}
+
 /* Code block styles */
 pre code.language-plaintext,
 pre code.language-markdown {
