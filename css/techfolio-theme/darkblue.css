@@ -76,8 +76,18 @@ a:hover {
   background-color: var(--tf-projects-bg-color);
 }
 
-/* Override text-muted for better contrast in dark mode */
-.text-muted {
+/* Target text-muted within cards (existing rule) */
+.card .text-muted {
+  color: #adb5bd !important;
+}
+
+/* Specifically target the date class within cards */
+.card .date {
+  color: #adb5bd !important; /* Ensure consistency with text-muted */
+}
+
+/* Optional: Target small elements with date class */
+.card small.date {
   color: #adb5bd !important;
 }
 
