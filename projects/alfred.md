@@ -8,7 +8,7 @@ published: true
 labels:
   - LFR
   - OpenMC
-summary: "Neutronic analysis of the ALFRED reactore core."
+summary: "Neutronics analysis of the ALFRED reactor core."
 ---
 
 <div align="center">
