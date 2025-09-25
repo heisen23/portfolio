@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mprr/mprr_core.png
+image: img/mprr/mprr_core_small.png
 title: "MPRR"
 date: 
 published: true
@@ -9,7 +9,7 @@ labels:
   - Research Reactor
   - VVR-KN Fuel
  
-summary: "A light water Multi-Purpose Research Reactor (MPRR) using VVR-KN type fuel."
+summary: "A light water Multi-Purpose Research Reactor (MPRR) using VVR-KN fuel."
 ---
 
 <div align="center">
@@ -22,7 +22,7 @@ Bangladesh is exploring a 10-20 MW Multi-Purpose Research Reactor (MPRR) using [
 
 The VVR-KN fuel, utilized in the MPRR, features an interesting hexagonal plate-type design with eight coaxial fuel elements, plus a five-tube variant for control rod placement. The fuel element is in a SAV-1 aluminum alloy cladding for durability and heat transfer. This LEU fuel minimizes proliferation risks while supporting high neutron fluxes for research applications like radioisotope production.
 
-These are the two desinged fuel assembly variants:
+These are the two designed fuel assembly variants:
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; width: 70%;">

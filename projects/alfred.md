@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/alfred/alfred_core.png
+image: img/alfred/alfred_core_small.png
 title: "ALFRED"
 date:
 published: true
