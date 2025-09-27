@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/myrrha/myrrah_core_small.png
+image: img/myrrha/myrrha_core_small.png
 title: "MYRRHA"
 date: 
 published: true
