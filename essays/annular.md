@@ -6,7 +6,7 @@ title: "Analysis of Neutronics Parameters of Different Annular Fuel Using Monte 
 date:
 published: true
 labels:
-  - Proceedings of the Energy Conference 2023
+  - Energy Conference 2023
 essayurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997514
 ---
 

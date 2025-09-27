@@ -6,7 +6,8 @@ title: "Neutronic Performance of Reflector Materials in Lead-Cooled Fast Reactor
 date:
 published: true
 labels:
-  - Nuclear Engineering and Design (Under Review)
+  - Nuclear Engineering and Design
+  - (Under Review)
 essayurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348419
 ---
 
