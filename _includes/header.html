@@ -1,11 +1,21 @@
 <header class="navbar navbar-expand navbar-dark bg-dark fixed-top">
   <div class="container-fluid">
+    
     <a class="navbar-brand" style="background-color: transparent;" href="{{ '/' | prepend: site.baseurl }}">Home</a>
+    
     <div class="ms-auto">
-      <ul class="navbar-nav mb-2 mb-lg-0">
-        <a class="navbar-brand" style="background-color: transparent;" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
-        <a class="navbar-brand" style="background-color: transparent;" href="{{ '/#essays' | prepend: site.baseurl }}">Papers</a>
-        <a class="navbar-brand" style="background-color: transparent;" href="{{ '/cv.pdf' | prepend: site.baseurl }}" target="_blank">CV</a>
+      <ul class="navbar-nav">
+        
+        <li class="nav-item">
+          <a class="nav-link" style="background-color: transparent;" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" style="background-color: transparent;" href="{{ '/#essays' | prepend: site.baseurl }}">Papers</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" style="background-color: transparent;" href="{{ '/cv.pdf' | prepend: site.baseurl }}" target="_blank">CV</a>
+        </li>
+        
       </ul>
     </div>
   </div>
