@@ -7,7 +7,7 @@ date:
 published: true
 labels:
   - Undergraduate Thesis
-essayurl:  https://cdn.jsdelivr.net/gh/heisen23/portfolio/thesis.pdf
+essayurl: https://cdn.jsdelivr.net/gh/heisen23/portfolio/thesis.pdf
 ---
 
 Sunny, A. A., Shuddho, S. S., & Zarin, N. Z. (2025)
