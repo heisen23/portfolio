@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Analysis of Neutronics Parameters of Different Annular Fuel Using Monte Carlo Code OpenMC Utilizing JEFF-3.3 and ENDF/B-VIII.0 Nuclear Data Libraries"
 # All dates must be YYYY-MM-DD format!
-date:
+date: 2024-10-25
 published: true
 labels:
   - Energy Conference 2023

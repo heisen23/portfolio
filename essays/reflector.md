@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Neutronic Performance of Reflector Materials in Lead-Cooled Fast Reactor"
 # All dates must be YYYY-MM-DD format!
-date:
+date: 2025-07-11
 published: true
 labels:
   - Nuclear Engineering and Design
