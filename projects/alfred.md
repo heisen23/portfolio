@@ -41,7 +41,7 @@ In this project i designed the ALFRED core using [OpenMC](https://docs.openmc.or
     <p><strong>Power Distribution</strong></p>
   </div>
 </div>
-The interesting finding of neutron thermalization (in a fast reactor) around the reflector region inspired a separate [research study](https://heisen23.github.io/portfolio/#essays), where we evaluated the performance of several reflector materials.
+The interesting finding of neutron thermalization (in a fast reactor) around the reflector region inspired a separate [research study](https://heisen23.github.io/portfolio/#essays), where we evaluated several reflector materials.
 
 ## Code and Resources
 
