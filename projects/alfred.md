@@ -12,8 +12,9 @@ summary: "Neutronics analysis of the ALFRED reactor core."
 ---
 
 <div align="center">
-  <img src="../img/alfred/alfred_core.png" width="75%">
+  <img src="../img/alfred/alfred_core.png" width="70%">
 </div>
+
 ## Overview
 
 For my undergraduate thesis i wanted to study Lead Cooled Fast Reactors and chose the [ALFRED](https://www.sciencedirect.com/science/article/abs/pii/S0029549314004361) model to condcuct a neutronics analysis. ALFRED is a prototype for next-generation Lead-Cooled Fast Reactors (LFRs). It aims to demonstrate enhanced safety and efficiency for nuclear energy.
@@ -40,6 +41,7 @@ In this project i designed the ALFRED core using [OpenMC](https://docs.openmc.or
     <p><strong>Power Distribution</strong></p>
   </div>
 </div>
+The interesting finding of neutron thermalization (in a fast reactor) around the reflector region inspired a separate [research study](https://heisen23.github.io/portfolio/#essays), where we evaluated the performance of several reflector materials.
 
 ## Code and Resources
 
